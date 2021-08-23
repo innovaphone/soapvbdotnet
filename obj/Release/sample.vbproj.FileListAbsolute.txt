@@ -1,0 +1,13 @@
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\bin\Release\soap-example.exe.config
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\bin\Release\soap-example.exe
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\bin\Release\soap-example.XmlSerializers.dll
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\bin\Release\soap-example.pdb
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\bin\Release\soap-example.xml
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\obj\Release\ResolveAssemblyReference.cache
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\obj\Release\soap_example.Form1.resources
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\obj\Release\soap_example.Resources.resources
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\obj\Release\sample.vbproj.GenerateResource.Cache
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\obj\Release\soap-example.exe
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\obj\Release\soap-example.xml
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\obj\Release\soap-example.pdb
+E:\sources\buildsys\src\wiki-src\sample\SOAPVBdotNET\sample\obj\Release\soap-example.XmlSerializers.dll
