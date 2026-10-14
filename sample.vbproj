@@ -147,10 +147,10 @@
     <WebReferences Include="Web References\" />
   </ItemGroup>
   <ItemGroup>
-    <WebReferenceUrl Include="http://www.innovaphone.com/wsdl/pbx501.wsdl">
+    <WebReferenceUrl Include="https://www.innovaphone.com/wsdl/pbx501.wsdl">
       <UrlBehavior>Dynamic</UrlBehavior>
       <RelPath>Web References\pbx_wsdl\</RelPath>
-      <UpdateFromURL>http://www.innovaphone.com/wsdl/pbx501.wsdl</UpdateFromURL>
+      <UpdateFromURL>https://www.innovaphone.com/wsdl/pbx501.wsdl</UpdateFromURL>
       <ServiceLocationURL>
       </ServiceLocationURL>
       <CachedDynamicPropName>
